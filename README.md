@@ -19,5 +19,5 @@ Uses tomcat server embedded with spring boot.
 # How to run application
 1. Clone the repo.
 2. Open a terminal in the root project folder.
-3. Type "mvn spring-boot:run"
+3. Type `mvn spring-boot:run`
 
