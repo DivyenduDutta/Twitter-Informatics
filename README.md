@@ -6,6 +6,8 @@ Raw data is unprocessed data ie, data directly obtained from the twitter API.
 Processed data (#TO-DO) is data on which certain relevant machine learning algorithms have been applied to gain 
 further insights.
 
+![alt text](https://github.com/DivyenduDutta/Twitter-Informatics/blob/master/images/Initial%20draft.png)
+
 # Technology Stack
 
 The back-end is written in spring boot.
