@@ -18,7 +18,13 @@ Spring Social Twitter is used to work with twitter API.
 
 
 # How to run application
+## Spring Boot Server - http://localhost:8080/profile
 1. Clone the repo.
 2. Open a terminal in the root project folder.
 3. Type `mvn spring-boot:run`
+
+## React app - http://localhost:3000
+1. Navigate into Twitter-Informatics-UI
+2. Open a terminal and run `npm install` if not already done
+3. Type `npm start`
 
