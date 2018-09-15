@@ -1,4 +1,4 @@
 nguage : java
 jdk : oraclejdk8
 sudo : false
-script : mvn spring-boot:run
+script : mvn clean install
