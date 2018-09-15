@@ -1,0 +1,4 @@
+nguage : java
+jdk : oraclejdk8
+sudo : false
+script : mvn pring-boot:run
