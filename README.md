@@ -16,7 +16,6 @@ The front-end (view) is written in React. Redux is used to manage application st
 
 Spring Social Twitter is used to work with twitter API.
 
-Uses tomcat server embedded with spring boot.
 
 # How to run application
 1. Clone the repo.
