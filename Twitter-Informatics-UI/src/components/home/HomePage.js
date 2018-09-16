@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 /*eslint-disable import/default */
 /*eslint-disable import/namespace */
 
-=======
->>>>>>> e2bcb607aaae22436399340e97c924878cfc1a79
 import React from 'react';
 import {Link} from 'react-router';
 import axios from 'axios';
