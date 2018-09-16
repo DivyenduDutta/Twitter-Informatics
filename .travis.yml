@@ -1,6 +1,11 @@
-nguage : java
-jdk : oraclejdk8
 sudo : false
-script : 
-        -mvn clean install
-        -cd Twitter-Informatics-UI && npm run build
+
+matrix:
+        include:     
+        -language: java
+        jdk: oraclejdk8        
+        script : -mvn clean install
+
+        -language: node_js
+         before_script: cd Twitter-Informatics-UI
+         script: npm run build
