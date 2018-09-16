@@ -2,11 +2,11 @@ sudo : false
 
 matrix:
      include:     
-      -language: java
+      - language: java
       jdk: oraclejdk8        
       script : mvn clean install
 
-      -language: node_js
+      - language: node_js
       before_script: 
               - cd Twitter-Informatics-UI
               - npm install
