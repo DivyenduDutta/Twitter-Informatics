@@ -12,8 +12,7 @@
     "remove-dist": "node_modules/.bin/rimraf ./dist",
     "build:html": "babel-node tools/buildHtml.js",
     "prebuild": "npm-run-all clean-dist lint build:html",
-    "build": "babel-node tools/build.js",
-    "postbuild": "babel-node tools/distServer.js"
+    "build": "babel-node tools/build.js"
 =======
     "lint:watch": "npm run lint -- --watch"
 >>>>>>> e2bcb607aaae22436399340e97c924878cfc1a79
