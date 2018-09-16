@@ -6,16 +6,12 @@
     "start": "npm-run-all --parallel open:src lint:watch",
     "open:src": "babel-node tools/srcServer.js",
     "lint": "node_modules/.bin/esw webpack.config.* src tools",
-<<<<<<< HEAD
     "lint:watch": "npm run lint -- --watch",
     "clean-dist": "npm run remove-dist && mkdir dist",
     "remove-dist": "node_modules/.bin/rimraf ./dist",
     "build:html": "babel-node tools/buildHtml.js",
     "prebuild": "npm-run-all clean-dist lint build:html",
     "build": "babel-node tools/build.js"
-=======
-    "lint:watch": "npm run lint -- --watch"
->>>>>>> e2bcb607aaae22436399340e97c924878cfc1a79
   },
   "author": "Divyendu Dutta",
   "dependencies": {
@@ -64,16 +60,10 @@
     "npm-run-all": "1.8.0",
     "open": "0.0.5",
     "react-addons-test-utils": "15.0.2",
-<<<<<<< HEAD
     "react-scripts": "^1.1.5",
     "redux-immutable-state-invariant": "1.2.3",
     "redux-mock-store": "1.0.2",
     "rimraf": "^2.5.2",
-=======
-    "redux-immutable-state-invariant": "1.2.3",
-    "redux-mock-store": "1.0.2",
-    "rimraf": "2.5.2",
->>>>>>> e2bcb607aaae22436399340e97c924878cfc1a79
     "style-loader": "0.13.1",
     "url-loader": "^0.5.7",
     "webpack": "1.13.0",
