@@ -1,4 +1,4 @@
-# Twitter-Informatics                      ![](https://travis-ci.org/DivyenduDutta/Basic-design-Patterns.svg?branch=master)
+# Twitter-Informatics                      ![](https://travis-ci.org/DivyenduDutta/Twitter-Informatics.svg?branch=master)
 A spring boot application that displays various details (raw and processed details) of an user. 
 
 Raw data is unprocessed data ie, data directly obtained from the twitter API.
