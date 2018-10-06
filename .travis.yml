@@ -6,7 +6,9 @@ matrix:
       jdk: oraclejdk8
       script: mvn clean install
     - language: node_js
-    - node_js: "7"
+      node_js:
+      - "node" 
+      - "7"
       before_script:
       - cd Twitter-Informatics-UI
       - rm -rf node_modules  
