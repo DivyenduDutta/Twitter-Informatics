@@ -8,5 +8,6 @@ matrix:
     - language: node_js
       before_script:
       - cd Twitter-Informatics-UI
+      - rm -rf node_modules  
       - npm install
       script: npm run build
