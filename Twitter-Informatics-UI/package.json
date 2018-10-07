@@ -1,6 +1,6 @@
 {
   "name": "twitter-informatics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UI for the twitter informatics back end",
   "scripts": {
     "start": "npm-run-all --parallel open:src lint:watch",
