@@ -28,3 +28,5 @@ Spring Social Twitter is used to work with twitter API.
 2. Open a terminal and run `npm install` if not already done
 3. Type `npm start`
 
+Use `curl -H "Accept: application/json" -H "Content-type: application/json" -X POST -d '{"name":"electon"}' http://localhost:8080/profile` to test the web service
+
