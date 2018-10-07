@@ -1,33 +1,31 @@
 #app {
     font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    color: darkslategrey;
+    color: rgb(55, 59, 59);
     margin: 0 auto;
 }
 
 /* Give some gap at the top of header */
 .myHeader {
     text-align: center;
-    font-family: "Bookman Old Style";
+    font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
     font-size: 24px; 
     font-style: normal; 
     font-variant: normal; 
-    font-weight: 700; 
+    font-weight: 900; 
     line-height: 26.4px;
-    background-color:rgba(31, 225, 231, 0.5);
+    background-color:rgba(139, 176, 233, 0.596);
     margin: 15px 0 0 0;
     height:70px ;
 }
 
 .maintextheader {
+    
     padding-top: 15px;
 }
 
-<<<<<<< HEAD
-=======
 .sideInfo {
     
 }
->>>>>>> e2bcb607aaae22436399340e97c924878cfc1a79
 
 .split {
     height: 80%;
@@ -79,4 +77,22 @@
     font-variant: normal; 
     font-weight: 700; 
     line-height: 26.4px;
+}
+
+.mySearch {
+    width: 50%;
+    margin: 20% auto;
+    text-align: center;
+}
+
+.myTextBox{
+    font-size: 20px;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.mySearchButton{
+    font-size: 18px !important;
+    height: 40px !important;
+    
 }

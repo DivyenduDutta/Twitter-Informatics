@@ -1,0 +1,138 @@
+{
+    "screenName": "electon",
+    "following": "53",
+    "followers": "21",
+    "numberOfTweets": "16",
+    "accountCreationDate": "2014-02-12",
+    "numberOfFavTweets": "15",
+    "tweets": [
+        {
+            "tweetContent": "RT @BuzzFeed: 17 signs that are funny but also true https://t.co/ZywtXpYope https://t.co/PGXgXhCMcD",
+            "retweeted": true,
+            "retweetCount": "115",
+            "favorited": false,
+            "favoritedCount": "0",
+            "source": "<a href=\"http://carbonandroid.com\" rel=\"nofollow\">Carbon v2</a>"
+        },
+        {
+            "tweetContent": "RT @engadget: Roborace unwraps its driverless electric car: https://t.co/zQ1HfFQIrs https://t.co/miPHCZl8r8",
+            "retweeted": true,
+            "retweetCount": "54",
+            "favorited": false,
+            "favoritedCount": "0",
+            "source": "<a href=\"http://carbonandroid.com\" rel=\"nofollow\">Carbon v2</a>"
+        },
+        {
+            "tweetContent": "RT @PsychToday: You might be quick to identify hypocrisy in others, but are you as aware of your own inconsistencies? https://t.co/e62D3RPZ…",
+            "retweeted": true,
+            "retweetCount": "22",
+            "favorited": false,
+            "favoritedCount": "0",
+            "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>"
+        },
+        {
+            "tweetContent": "Spot on!! BEAutifully depicted.@TheAn1meMan https://t.co/NzD2gmuEPw",
+            "retweeted": false,
+            "retweetCount": "0",
+            "favorited": false,
+            "favoritedCount": "1",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>"
+        },
+        {
+            "tweetContent": "RT @noordinaryco: Why Deep Learning is suddenly changing your life https://t.co/WbVIKApwyn #deeplearning #AI #artificialintelligence https:…",
+            "retweeted": true,
+            "retweetCount": "9",
+            "favorited": false,
+            "favoritedCount": "0",
+            "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>"
+        },
+        {
+            "tweetContent": "RT @BillGates: What has happened to global poverty over the last 20 years?\nCheck your answer here: https://t.co/Brd5VYbMQl #Progress",
+            "retweeted": false,
+            "retweetCount": "0",
+            "favorited": false,
+            "favoritedCount": "0",
+            "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>"
+        },
+        {
+            "tweetContent": "@TechCrunch Glad to read Argentinean entrepreneurs bringing about a change. This'll help other budding entrepreneurs too",
+            "retweeted": false,
+            "retweetCount": "0",
+            "favorited": false,
+            "favoritedCount": "0",
+            "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>"
+        },
+        {
+            "tweetContent": "Samsung Galaxy Note 7 International Giveaway! https://t.co/foxA9IKxKz",
+            "retweeted": false,
+            "retweetCount": "0",
+            "favorited": false,
+            "favoritedCount": "1",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>"
+        },
+        {
+            "tweetContent": "Galaxy Note 7 International Giveaway @androidauth https://t.co/LlBbHB2cs8 #giveaway",
+            "retweeted": false,
+            "retweetCount": "0",
+            "favorited": false,
+            "favoritedCount": "0",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>"
+        },
+        {
+            "tweetContent": "@TheAn1meMan Okay so ur a web developer? I like the editing u do in your videos so i always thought u went to film school",
+            "retweeted": false,
+            "retweetCount": "0",
+            "favorited": false,
+            "favoritedCount": "0",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+        },
+        {
+            "tweetContent": "@TheAn1meMan#AnswerMeSenpai Hey! Who is your favourite japanese author/novel?",
+            "retweeted": false,
+            "retweetCount": "0",
+            "favorited": false,
+            "favoritedCount": "0",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+        },
+        {
+            "tweetContent": "@TheAn1meMan Aw man!!!This is nice!!",
+            "retweeted": false,
+            "retweetCount": "0",
+            "favorited": false,
+            "favoritedCount": "0",
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>"
+        },
+        {
+            "tweetContent": "@TechCrunch @edithyeung yea we chats doing some real awesome stuff!!!",
+            "retweeted": false,
+            "retweetCount": "0",
+            "favorited": false,
+            "favoritedCount": "1",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+        },
+        {
+            "tweetContent": "@TheHackersNews wow!! now thats something.",
+            "retweeted": false,
+            "retweetCount": "0",
+            "favorited": false,
+            "favoritedCount": "0",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+        },
+        {
+            "tweetContent": "RT @TheHackersNews: Uh, OH! Anyone else seeing this? RT If You are.  #Facebook #Facebookdown http://t.co/GZmHAkpqZi",
+            "retweeted": true,
+            "retweetCount": "189",
+            "favorited": true,
+            "favoritedCount": "0",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+        },
+        {
+            "tweetContent": "@TechCrunch #VMA",
+            "retweeted": false,
+            "retweetCount": "0",
+            "favorited": false,
+            "favoritedCount": "1",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+        }
+    ]
+}
