@@ -27,3 +27,5 @@
 ### Ignore the following files from committing to repo ###
 package.json.lock
 .travis.yml.swp
+
+*.zip
