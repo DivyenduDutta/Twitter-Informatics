@@ -2,7 +2,7 @@
 /*eslint-disable import/namespace */
 
 import React from 'react';
-import axios from 'axios';
+//import axios from 'axios';
 import HomeBasicInfo from './homeBasicInfo/HomeBasicInfo';
 import HomeMainInfo from './homeMainInfo/HomeMainInfo';
 import ProfileData from './mock data/profile.json';
