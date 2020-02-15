@@ -3,7 +3,7 @@ sudo: false
 matrix:
   include:
     - language: java
-      jdk: oraclejdk10
+      jdk: openjdk10
       script: mvn clean install
     - language: node_js
       node_js:
