@@ -1,0 +1,18 @@
+/* Give some gap at the top of header */
+.myHeader {
+    text-align: center;
+    font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
+    font-size: 24px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 900; 
+    line-height: 26.4px;
+    background-color:rgba(139, 176, 233, 0.596);
+    margin: 15px 0 0 0;
+    height:70px ;
+}
+
+.maintextheader {
+    
+    padding-top: 15px;
+}

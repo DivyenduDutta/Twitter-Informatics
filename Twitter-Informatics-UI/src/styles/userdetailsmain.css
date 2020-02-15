@@ -1,0 +1,26 @@
+
+.split {
+    height: 80%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.left {
+    margin: 100px 0 0 0;
+    width: 25%;
+    left: 10;
+    background-color:rgba(77, 150, 62, 0.5);
+    opacity: 20;
+}
+
+.right {
+    margin: 100px 15px 0 0;
+    width: 71%;
+    right: 0;
+    background-color:rgba(219, 233, 92, 0.5);
+    opacity: 20;
+    padding-right: 20px;
+}

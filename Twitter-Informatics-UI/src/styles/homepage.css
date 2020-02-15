@@ -1,0 +1,17 @@
+.mySearch {
+    width: 50%;
+    margin: 20% auto;
+    text-align: center;
+}
+
+.myTextBox{
+    font-size: 20px;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.mySearchButton{
+    font-size: 18px !important;
+    height: 40px !important;
+    
+}
